@@ -1,4 +1,3 @@
 # my-repo
 Test repository
-
-Oh, I am excited to learn Github
+Yaayyyyy. I am doing Github Desktop
